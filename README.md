@@ -1,9 +1,9 @@
-# RD AAOW Free development lab's Applications development policy (RD AAOW FDL ADP) ```rev. 9```
+# RD AAOW Free development lab's Applications development policy (RD AAOW FDL ADP) ```rev. 10```
 
 # Contents | Содержание
 - [Introduction | Введение](README.md#introduction--введение)
 - [Clauses of the Policy | Положения Политики](README.md#clauses-of-the-policy--положения-политики)
-- Conclusion | Заключение
+- [Conclusion | Заключение](README.md#conclusion--заключение)
 - EULA | Соглашение конечного пользователя
 - Application rules | Правила применения
 - Changes log | История изменений
@@ -12,9 +12,13 @@
 
 # Introduction | Введение
 
-This Policy (ADP), its positions, conclusion, EULA and application methods describes general rules that we follow in all of our development processes, released applications and implemented ideas. ***It must be acquainted by participants and users before using any of laboratory's products. By downloading them, you completely agree to this Policy and accept it!***
+This Policy (ADP), its positions, conclusion, EULA and application methods describes general rules that we follow in all of our development processes, released applications and implemented ideas.
 
-Данная Политика (ADP), её положения, заключение, EULA и способы применения описывают общие правила, которым мы следуем во всех наших процессах разработки, вышедших в релиз приложениях и реализованных идеях. ***Обязательна к ознакомлению всем участникам и пользователям перед использованием любого из продуктов лаборатории. Загружая их, вы полностью соглашаетесь с этой Политикой и принимаете её!***
+***It must be acquainted by participants and users before using any of laboratory's products. By downloading them, you completely agree to this Policy and accept it!***
+
+Данная Политика (ADP), её положения, заключение, EULA и способы применения описывают общие правила, которым мы следуем во всех наших процессах разработки, вышедших в релиз приложениях и реализованных идеях.
+
+***Обязательна к ознакомлению для всех участников и пользователей перед использованием любого из продуктов лаборатории. Загружая их, вы полностью соглашаетесь с этой Политикой и принимаете её!***
 
 #
 
@@ -75,3 +79,45 @@ This Policy (ADP), its positions, conclusion, EULA and application methods descr
 :warning: Our applications have no algorithms for gathering / accumulating / sending of private info. All data used by our utilities doesn't leave user's device.
 
 :warning: Наши приложения не имеют алгоритмов сбора / накопления / отправки личной информации. Все данные, используемые нашими утилитами, не покидают устройство пользователя.
+
+#
+
+### 6. Our products are open-source | Наши продукты имеют открытый исходный код
+
+![6](https://user-images.githubusercontent.com/20893717/130316679-1f289a2f-fda6-4c7a-843f-d39ea364a8f3.png)
+
+:heavy_check_mark: All code that has no special limitations is open for all use cases except removing license text (MIT or GPL) and, as a result, ideas depersonalization.
+
+:heavy_check_mark: Весь код, не имеющий особых ограничений, открыт для всех вариантов использования, кроме удаления текста лицензии (MIT или GPL) и, как следствие, деперсонализации идей.
+
+#
+
+### 7. We welcome bug reports | Мы приветствуем сообщения об ошибках
+
+![7](https://user-images.githubusercontent.com/20893717/130316743-4863aa8b-9976-465e-b345-5ef2ee194245.png)
+
+:heavy_check_mark: Your comments, reports, advices and wishes allow us to improve our products. It is the only way to know what we need to be better.
+
+:heavy_check_mark: Ваши комментарии, сообщения, советы и пожелания позволяют нам улучшать наши продукты. Это – единственный способ узнать, что нам нужно, чтобы стать лучше.
+
+#
+
+### 8. We don't leave our users | Мы не покидаем наших пользователей
+
+![8](https://user-images.githubusercontent.com/20893717/130316806-563351bd-8b7a-4910-ad98-f0a50ca30f49.png)
+
+:warning: All products of us have developers support. All users can ask us for help when using our applications.
+
+:warning: Все наши продукты имеют поддержку разработчиков. Все пользователи могут обратиться к нам за помощью при использовании наших приложений.
+
+#
+
+# Conclusion | Заключение
+
+Clauses of the policy derive one from another and guarantee that:
+- We will not include payments, ads, hidden and / or unexpected functionality, uncontrollable updates, de-anonymizing algorithms and other elements that are not compatible with this Policy.
+- We will cooperate with our users when they want to help us and when they need help from us in the development / maintenance processes.
+
+Положения политики вытекают одно из другого и гарантируют, что:
+- Мы не будем включать платежи, рекламу, скрытые и / или незаявленные функции, неконтролируемые обновления, функции деанонимизации и другие элементы, которые не совместимы с данной Политикой.
+- Мы будем сотрудничать с нашими пользователями, когда они желают нам помочь и когда им требуется наша помощь в процессах разработки / сопровождения.
