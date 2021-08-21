@@ -1,7 +1,7 @@
 # RD AAOW Free development lab's Applications development policy (RD AAOW FDL ADP) ```rev. 9```
 
 ## Contents | Содержание
-- Introduction | Введение
+- [Introduction | Введение](readme.md#introduction--введение)
 - Clauses of the Policy | Положения Политики
 - Conclusion | Заключение
 - EULA | Соглашение конечного пользователя
