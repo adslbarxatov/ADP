@@ -1,6 +1,6 @@
 # RD AAOW Free development lab's Applications development policy (RD AAOW FDL ADP) ```rev. 9```
 
-## Contents | Содержание
+# Contents | Содержание
 - [Introduction | Введение](README.md#introduction--введение)
 - [Clauses of the Policy | Положения Политики](README.md#clauses-of-the-policy--положения-политики)
 - Conclusion | Заключение
@@ -10,7 +10,7 @@
 
 #
 
-## Introduction | Введение
+# Introduction | Введение
 
 This Policy (ADP), its positions, conclusion, EULA and application methods describes general rules that we follow in all of our development processes, released applications and implemented ideas. ***It must be acquainted by participants and users before using any of laboratory's products. By downloading them, you completely agree to this Policy and accept it!***
 
@@ -18,7 +18,7 @@ This Policy (ADP), its positions, conclusion, EULA and application methods descr
 
 #
 
-## Clauses of the Policy | Положения Политики
+# Clauses of the Policy | Положения Политики
 
 - Points marked in red and with a :warning: are ***mandatory***.
 - Points marked in green and with a :heavy_check_mark: are ***advisory***.
@@ -28,20 +28,50 @@ This Policy (ADP), its positions, conclusion, EULA and application methods descr
 
 #
 
-### 1 :warning:. We work on free base | Мы работаем на бесплатной основе
+### 1. We work on free base | Мы работаем на бесплатной основе
 
 ![1](https://user-images.githubusercontent.com/20893717/130315736-29bbd81d-1b17-4bfb-a7eb-495c34d5de23.png)
 
-No apparent or hidden payments are provided for our developments. If some products are using libraries with partially-free licenses, it is declared in annotations of corresponding projects.
+:warning: No apparent or hidden payments are provided for our developments. If some products are using libraries with partially-free licenses, it is declared in annotations of corresponding projects.
 
-Никаких явных или скрытых платежей за наши разработки не предусмотрено. Если некоторые продукты используют библиотеки с частично бесплатными лицензиями, это отражается в соответствующих аннотациях проектов.
+:warning: Никаких явных или скрытых платежей за наши разработки не предусмотрено. Если некоторые продукты используют библиотеки с частично бесплатными лицензиями, это отражается в соответствующих аннотациях проектов.
 
 #
 
-### 2 :warning:. We don't use ads | Мы не используем рекламу
+### 2. We don't use ads | Мы не используем рекламу
 
 ![2](https://user-images.githubusercontent.com/20893717/130316140-13acdbc9-f085-469d-bd26-7bda812dd676.png)
 
-Our developments have no advertisement elements except of links to other own developments and projects. All links can only be called by user and have no automatic triggers.
+:warning: Our developments have no advertisement elements except of links to other own developments and projects. All links can only be called by user and have no automatic triggers.
 
-Наши разработки не имеют рекламных элементов, кроме ссылок на собственные разработки и проекты. Все ссылки могут быть вызваны только пользователем (вручную) и не имеют автоматических триггеров.
+:warning: Наши разработки не имеют рекламных элементов, кроме ссылок на собственные разработки и проекты. Все ссылки могут быть вызваны только пользователем (вручную) и не имеют автоматических триггеров.
+
+#
+
+### 3. We don't use autoupdate | Мы не используем автообновление
+
+![3](https://user-images.githubusercontent.com/20893717/130316319-da241ed1-1286-4d70-8ad3-b5c741057ea8.png)
+
+:warning: None of our products will update their functionality without direct involvement of user. Only user can initiate this process. Non-executable content may be updated automatically if an absence of it makes impossible the correct execution of application.
+
+:warning: Ни один из наших продуктов не будет обновлять свою функциональность без непосредственного участия пользователя. Только пользователь может инициировать этот процесс. Неисполняемый контент может обновляться автоматически, если без этого его корректное функционирование становится невозможным.
+
+#
+
+### 4. We don't use hidden functionality | Мы не используем скрытый функционал
+
+![4](https://user-images.githubusercontent.com/20893717/130316460-c0c6674f-4c8e-4ca5-9aac-9a3f0c2ea65d.png)
+
+:warning: Our products have no code with undeclared aims (uncontrollable updating, data collecting, downloading of extraneous content, etc.). All functions of applications are described in user manuals and / or annotations of projects.
+
+:warning: Наши продукты не имеют кода с незаявленными целями (неконтролируемые обновления, сбор данных, загрузка постороннего контента и т. д.). Все функции приложений описываются в руководствах пользователя и / или аннотациях проектов.
+
+#
+
+### 5. We don't collect personal data | Мы не собираем личные данные
+
+![5](https://user-images.githubusercontent.com/20893717/130316538-ef821aef-6ae7-46fb-bffe-867d54719ec7.png)
+
+:warning: Our applications have no algorithms for gathering / accumulating / sending of private info. All data used by our utilities doesn't leave user's device.
+
+:warning: Наши приложения не имеют алгоритмов сбора / накопления / отправки личной информации. Все данные, используемые нашими утилитами, не покидают устройство пользователя.
