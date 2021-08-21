@@ -16,6 +16,8 @@ This Policy (ADP), its positions, conclusion, EULA and application methods descr
 
 ***It must be acquainted by participants and users before using any of laboratory's products. By downloading them, you completely agree to this Policy and accept it!***
 
+&nbsp;
+
 Данная Политика (ADP), её положения, заключение, EULA и способы применения описывают общие правила, которым мы следуем во всех наших процессах разработки, вышедших в релиз приложениях и реализованных идеях.
 
 ***Обязательна к ознакомлению для всех участников и пользователей перед использованием любого из продуктов лаборатории. Загружая их, вы полностью соглашаетесь с этой Политикой и принимаете её!***
@@ -26,6 +28,8 @@ This Policy (ADP), its positions, conclusion, EULA and application methods descr
 
 - Points marked in red and with a :warning: are ***mandatory***.
 - Points marked in green and with a :heavy_check_mark: are ***advisory***.
+
+&nbsp;
 
 - Позиции, отмеченные красным цветом и знаком :warning:, ***обязательны к исполнению***.
 - Положения, отмеченные зелёным цветом и знаком :heavy_check_mark:, ***носят рекомендательный характер***.
@@ -139,7 +143,26 @@ Our products and any updates are being delivered «as is». ***Laboratory*** may
 3. Disagreement with the Policy is not the basis for any sanctions against a member of the community / channel / hosting.
 4. Publication of developments / products / materials / other elements that are not consistent with the Policy in materials / comments / feeds of any community / channel / hosting managed by the laboratory may be limited or terminated at decision of the administration.
 
+&nbsp;
+
 1. Ознакомление с Политикой является обязательным. Неознакомление с Политикой не лишает администрацию лаборатории права её применения.
 2. Согласие с Политикой не является обязательным для участия в любом сообществе / канале / хостинге под управлением лаборатории.
 3. Несогласие с Политикой не является основанием для каких бы то ни было санкций в отношении участника сообщества / канала / хостинга.
 4. Публикация разработок / продуктов / материалов / других элементов, не соответствующих Политике, в материалах / комментариях / фидах любого сообщества / канала / хостинга под управлением лаборатории может быть ограничена или прекращена на усмотрение администрации.
+
+#
+
+# Changes log | История изменений
+
+```
+rev. 1: formalization from 21.12.19
+rev. 2: additions and updates from 24.12.19
+rev. 3: refinements for ads and positions obligation from 11.02.20
+rev. 4: headers and application rules from 14.02.20
+rev. 5: personal data remark from 10.05.20
+rev. 6: additions and updates from 29.05.20
+rev. 7: obligatory acquainting, additions and updates from 21.07.20
+rev. 8: current additions and updates, liability limit from 14.08.20
+rev. 9: clarifications and corrections in autoupdate, open-source and conclusion sections from 17.01.21
+rev. 10: adapation for GitHub platform from 21.08.21
+```
