@@ -4,9 +4,9 @@
 - [Introduction | Введение](README.md#introduction--введение)
 - [Clauses of the Policy | Положения Политики](README.md#clauses-of-the-policy--положения-политики)
 - [Conclusion | Заключение](README.md#conclusion--заключение)
-- EULA | Соглашение конечного пользователя
-- Application rules | Правила применения
-- Changes log | История изменений
+- [EULA | Соглашение конечного пользователя](README.md#eula--соглашение-конечного-пользователя)
+- [Application rules | Правила применения](README.md#application-rules--правила-применения)
+- [Changes log | История изменений](README.md#changes-log--история-изменений)
 
 #
 
@@ -121,3 +121,25 @@ Clauses of the policy derive one from another and guarantee that:
 Положения политики вытекают одно из другого и гарантируют, что:
 - Мы не будем включать платежи, рекламу, скрытые и / или незаявленные функции, неконтролируемые обновления, функции деанонимизации и другие элементы, которые не совместимы с данной Политикой.
 - Мы будем сотрудничать с нашими пользователями, когда они желают нам помочь и когда им требуется наша помощь в процессах разработки / сопровождения.
+
+#
+
+# EULA | Соглашение конечного пользователя
+
+Our products and any updates are being delivered «as is». ***Laboratory*** may try to, but ***does not and cannot warrant*** the performance, results, absense of crushes and / or data losses you may obtain by using them. ***All products are used at your own risk***, without any guarantees and compensations, explicit and implied (except described above). There is no liability on the part of laboratory.
+
+Наши продукты, а также любые обновления поставляются «как есть». ***Лаборатория*** может попытаться, но ***не будет и не может гарантировать*** производительность, результаты, отсутствие сбоев и / или потери данных, которые Вы можете получить, используя их. ***Все продукты используются на свой страх и риск***, без каких-либо гарантий и компенсаций, явных и подразумеваемых (кроме описанных выше). Никакой ответственности со стороны лаборатории не предусмотрено.
+
+#
+
+# Application rules | Правила применения
+
+1. Acquaintance with a Policy is mandatory. Failure to become acquainted with the Policy does not deprive the laboratory administration of the right to apply it.
+2. Agreement with the Policy is not required for participation in any community / channel / hosting managed by the laboratory.
+3. Disagreement with the Policy is not the basis for any sanctions against a member of the community / channel / hosting.
+4. Publication of developments / products / materials / other elements that are not consistent with the Policy in materials / comments / feeds of any community / channel / hosting managed by the laboratory may be limited or terminated at decision of the administration.
+
+1. Ознакомление с Политикой является обязательным. Неознакомление с Политикой не лишает администрацию лаборатории права её применения.
+2. Согласие с Политикой не является обязательным для участия в любом сообществе / канале / хостинге под управлением лаборатории.
+3. Несогласие с Политикой не является основанием для каких бы то ни было санкций в отношении участника сообщества / канала / хостинга.
+4. Публикация разработок / продуктов / материалов / других элементов, не соответствующих Политике, в материалах / комментариях / фидах любого сообщества / канала / хостинга под управлением лаборатории может быть ограничена или прекращена на усмотрение администрации.
