@@ -2,7 +2,7 @@
 
 ## Contents | Содержание
 - [Introduction | Введение](README.md#introduction--введение)
-- Clauses of the Policy | Положения Политики
+- [Clauses of the Policy | Положения Политики](README.md#clauses-of-the-policy--положения-политики)
 - Conclusion | Заключение
 - EULA | Соглашение конечного пользователя
 - Application rules | Правила применения
@@ -20,6 +20,28 @@ This Policy (ADP), its positions, conclusion, EULA and application methods descr
 
 ## Clauses of the Policy | Положения Политики
 
-Points marked in red and with a :no_entry_sign: are ***mandatory***. Points marked in green and with a :heavy_check_mark: are ***advisory***.
+- Points marked in red and with a :warning: are ***mandatory***.
+- Points marked in green and with a :heavy_check_mark: are ***advisory***.
 
-Позиции, отмеченные красным цветом и знаком :no_entry_sign:, ***обязательны к исполнению***. Положения, отмеченные зелёным и знаком :heavy_check_mark:, ***носят рекомендательный характер***.
+- Позиции, отмеченные красным цветом и знаком :warning:, ***обязательны к исполнению***.
+- Положения, отмеченные зелёным цветом и знаком :heavy_check_mark:, ***носят рекомендательный характер***.
+
+#
+
+### 1 :warning:. We work on free base | Мы работаем на бесплатной основе
+
+![1](https://user-images.githubusercontent.com/20893717/130315736-29bbd81d-1b17-4bfb-a7eb-495c34d5de23.png)
+
+No apparent or hidden payments are provided for our developments. If some products are using libraries with partially-free licenses, it is declared in annotations of corresponding projects.
+
+Никаких явных или скрытых платежей за наши разработки не предусмотрено. Если некоторые продукты используют библиотеки с частично бесплатными лицензиями, это отражается в соответствующих аннотациях проектов.
+
+#
+
+### 2 :warning:. We don't use ads | Мы не используем рекламу
+
+![2](https://user-images.githubusercontent.com/20893717/130316140-13acdbc9-f085-469d-bd26-7bda812dd676.png)
+
+Our developments have no advertisement elements except of links to other own developments and projects. All links can only be called by user and have no automatic triggers.
+
+Наши разработки не имеют рекламных элементов, кроме ссылок на собственные разработки и проекты. Все ссылки могут быть вызваны только пользователем (вручную) и не имеют автоматических триггеров.
