@@ -1,20 +1,20 @@
-# RD AAOW Free development lab's Applications development policy (RD AAOW FDL ADP) ```rev. 10```
+# RD AAOW Free development lab’s Applications development policy (RD AAOW FDL ADP) ```rev. 10```
 
-# Contents | Содержание
-- [Introduction | Введение](README.md#introduction--введение)
-- [Clauses of the Policy | Положения Политики](README.md#clauses-of-the-policy--положения-политики)
-- [Conclusion | Заключение](README.md#conclusion--заключение)
-- [EULA | Соглашение конечного пользователя](README.md#eula--соглашение-конечного-пользователя)
-- [Application rules | Правила применения](README.md#application-rules--правила-применения)
-- [Changes log | История изменений](README.md#changes-log--история-изменений)
+# Contents ● Содержание
+- [Introduction ● Введение](#introduction--введение)
+- [Clauses of the Policy ● Положения Политики](#clauses-of-the-policy--положения-политики)
+- [Conclusion ● Заключение](#conclusion--заключение)
+- [EULA ● Соглашение конечного пользователя](#end-user-license-agreement--соглашение-конечного-пользователя)
+- [Application rules ● Правила применения](#application-rules--правила-применения)
+- [Changes log ● История изменений](#changes-log--история-изменений)
 
 #
 
-# Introduction | Введение
+# Introduction ● Введение
 
 This Policy (ADP), its positions, conclusion, EULA and application methods describes general rules that we follow in all of our development processes, released applications and implemented ideas.
 
-***It must be acquainted by participants and users before using any of laboratory's products. By downloading them, you completely agree to this Policy and accept it!***
+***It must be acquainted by participants and users before using any of laboratory’s products. By downloading them, you completely agree to this Policy and accept it!***
 
 &nbsp;
 
@@ -24,7 +24,7 @@ This Policy (ADP), its positions, conclusion, EULA and application methods descr
 
 #
 
-# Clauses of the Policy | Положения Политики
+# Clauses of the Policy ● Положения Политики
 
 - Points marked in red and with a :warning: are ***mandatory***.
 - Points marked in green and with a :heavy_check_mark: are ***advisory***.
@@ -36,7 +36,7 @@ This Policy (ADP), its positions, conclusion, EULA and application methods descr
 
 #
 
-### 1. We work on free base | Мы работаем на бесплатной основе
+### 1. We work on free base ● Мы работаем на бесплатной основе
 
 ![1](https://user-images.githubusercontent.com/20893717/130315736-29bbd81d-1b17-4bfb-a7eb-495c34d5de23.png)
 
@@ -46,7 +46,7 @@ This Policy (ADP), its positions, conclusion, EULA and application methods descr
 
 #
 
-### 2. We don't use ads | Мы не используем рекламу
+### 2. We don’t use ads ● Мы не используем рекламу
 
 ![2](https://user-images.githubusercontent.com/20893717/130316140-13acdbc9-f085-469d-bd26-7bda812dd676.png)
 
@@ -56,7 +56,7 @@ This Policy (ADP), its positions, conclusion, EULA and application methods descr
 
 #
 
-### 3. We don't use autoupdate | Мы не используем автообновление
+### 3. We don’t use autoupdate ● Мы не используем автообновление
 
 ![3](https://user-images.githubusercontent.com/20893717/130316319-da241ed1-1286-4d70-8ad3-b5c741057ea8.png)
 
@@ -66,7 +66,7 @@ This Policy (ADP), its positions, conclusion, EULA and application methods descr
 
 #
 
-### 4. We don't use hidden functionality | Мы не используем скрытый функционал
+### 4. We don’t use hidden functionality ● Мы не используем скрытый функционал
 
 ![4](https://user-images.githubusercontent.com/20893717/130316460-c0c6674f-4c8e-4ca5-9aac-9a3f0c2ea65d.png)
 
@@ -76,17 +76,17 @@ This Policy (ADP), its positions, conclusion, EULA and application methods descr
 
 #
 
-### 5. We don't collect personal data | Мы не собираем личные данные
+### 5. We don’t collect personal data ● Мы не собираем личные данные
 
 ![5](https://user-images.githubusercontent.com/20893717/130316538-ef821aef-6ae7-46fb-bffe-867d54719ec7.png)
 
-:warning: Our applications have no algorithms for gathering / accumulating / sending of private info. All data used by our utilities doesn't leave user's device.
+:warning: Our applications have no algorithms for gathering / accumulating / sending of private info. All data used by our utilities doesn’t leave user’s device.
 
 :warning: Наши приложения не имеют алгоритмов сбора / накопления / отправки личной информации. Все данные, используемые нашими утилитами, не покидают устройство пользователя.
 
 #
 
-### 6. Our products are open-source | Наши продукты имеют открытый исходный код
+### 6. Our products are open-source ● Наши продукты имеют открытый исходный код
 
 ![6](https://user-images.githubusercontent.com/20893717/130316679-1f289a2f-fda6-4c7a-843f-d39ea364a8f3.png)
 
@@ -96,7 +96,7 @@ This Policy (ADP), its positions, conclusion, EULA and application methods descr
 
 #
 
-### 7. We welcome bug reports | Мы приветствуем сообщения об ошибках
+### 7. We welcome bug reports ● Мы приветствуем сообщения об ошибках
 
 ![7](https://user-images.githubusercontent.com/20893717/130316743-4863aa8b-9976-465e-b345-5ef2ee194245.png)
 
@@ -106,7 +106,7 @@ This Policy (ADP), its positions, conclusion, EULA and application methods descr
 
 #
 
-### 8. We don't leave our users | Мы не покидаем наших пользователей
+### 8. We don’t leave our users ● Мы не покидаем наших пользователей
 
 ![8](https://user-images.githubusercontent.com/20893717/130316806-563351bd-8b7a-4910-ad98-f0a50ca30f49.png)
 
@@ -116,7 +116,7 @@ This Policy (ADP), its positions, conclusion, EULA and application methods descr
 
 #
 
-# Conclusion | Заключение
+# Conclusion ● Заключение
 
 Clauses of the policy derive one from another and guarantee that:
 - We will not include payments, ads, hidden and / or unexpected functionality, uncontrollable updates, de-anonymizing algorithms and other elements that are not compatible with this Policy.
@@ -128,7 +128,7 @@ Clauses of the policy derive one from another and guarantee that:
 
 #
 
-# EULA | Соглашение конечного пользователя
+# End user license agreement ● Соглашение конечного пользователя
 
 Our products and any updates are being delivered «as is». ***Laboratory*** may try to, but ***does not and cannot warrant*** the performance, results, absense of crushes and / or data losses you may obtain by using them. ***All products are used at your own risk***, without any guarantees and compensations, explicit and implied (except described above). There is no liability on the part of laboratory.
 
@@ -136,7 +136,7 @@ Our products and any updates are being delivered «as is». ***Laboratory*** may
 
 #
 
-# Application rules | Правила применения
+# Application rules ● Правила применения
 
 1. Acquaintance with a Policy is mandatory. Failure to become acquainted with the Policy does not deprive the laboratory administration of the right to apply it.
 2. Agreement with the Policy is not required for participation in any community / channel / hosting managed by the laboratory.
@@ -152,7 +152,7 @@ Our products and any updates are being delivered «as is». ***Laboratory*** may
 
 #
 
-# Changes log | История изменений
+# Changes log ● История изменений
 
 ```
 rev. 1: formalization from 21.12.19
