@@ -1,12 +1,12 @@
 # RD AAOW Free development lab’s Applications development policy (RD AAOW FDL ADP) ```rev. 10```
 
 # Contents ● Содержание
-- [Introduction ● Введение](#introduction--введение)
-- [Clauses of the Policy ● Положения Политики](#clauses-of-the-policy--положения-политики)
-- [Conclusion ● Заключение](#conclusion--заключение)
-- [EULA ● Соглашение конечного пользователя](#end-user-license-agreement--соглашение-конечного-пользователя)
-- [Application rules ● Правила применения](#application-rules--правила-применения)
-- [Changes log ● История изменений](#changes-log--история-изменений)
+- [Introduction ● Введение](#introduction--)
+- [Clauses of the Policy ● Положения Политики](#clauses-of-the-policy---)
+- [Conclusion ● Заключение](#conclusion--)
+- [EULA ● Соглашение конечного пользователя](#end-user-license-agreement----)
+- [Application rules ● Правила применения](#application-rules---)
+- [Changes log ● История изменений](#changes-log---)
 
 #
 
