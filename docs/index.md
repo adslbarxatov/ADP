@@ -130,7 +130,7 @@ Clauses of the policy derive one from another and guarantee that:
 
 # End user license agreement ● Соглашение конечного пользователя
 
-Our products and any updates are being delivered «as is». ***Laboratory*** may try to, but ***does not and cannot warrant*** the performance, results, absense of crushes and / or data losses you may obtain by using them. ***All products are used at your own risk***, without any guarantees and compensations, explicit and implied (except described above). There is no liability on the part of laboratory.
+Our products and any updates are being delivered «as is». ***Laboratory*** may try to, but ***does not and cannot warrant*** the performance, results, absence of crushes and / or data losses you may obtain by using them. ***All products are used at your own risk***, without any guarantees and compensations, explicit and implied (except described above). There is no liability on the part of laboratory.
 
 Наши продукты, а также любые обновления поставляются «как есть». ***Лаборатория*** может попытаться, но ***не будет и не может гарантировать*** производительность, результаты, отсутствие сбоев и / или потери данных, которые Вы можете получить, используя их. ***Все продукты используются на свой страх и риск***, без каких-либо гарантий и компенсаций, явных и подразумеваемых (кроме описанных выше). Никакой ответственности со стороны лаборатории не предусмотрено.
 
