@@ -1,4 +1,4 @@
-_Changes for rev 10_:
+_Changes for rev 10_: 
 `rev. 1`: formalization from 21.12.19
 `rev. 2`: additions and updates from 24.12.19
 `rev. 3`: refinements for ads and positions obligation from 11.02.20
