@@ -1,6 +1,6 @@
 # [RD AAOW Free development lab’s](https://adslbarxatov.github.io/DPModule) Applications development policy (RD AAOW FDL ADP) ```rev. 10```
 
-# Содержание ● [:ru: English version](https://adslbarxatov.github.io/ADP)
+# Содержание ● [:gb: English version](https://adslbarxatov.github.io/ADP)
 - [Введение](#section-2)
 - [Положения Политики](#section-4)
 - [Заключение](#section-22)
