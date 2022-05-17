@@ -12,9 +12,11 @@
 
 # Introduction
 
-This Policy (ADP), its positions, conclusion, EULA and application methods describes general rules that we follow in all of our development processes, released applications and implemented ideas.
+This Policy (ADP), its positions, conclusion, EULA and application methods describes general rules that we follow
+in all of our development processes, released applications and implemented ideas.
 
-***It must be acquainted by participants and users before using any of laboratory’s products. By downloading them, you completely agree to this Policy and accept it!***
+***It must be acquainted by participants and users before using any of laboratory’s products. By downloading them,
+you completely agree to this Policy and accept it!***
 
 #
 
@@ -29,7 +31,8 @@ This Policy (ADP), its positions, conclusion, EULA and application methods descr
 
 ![1](https://user-images.githubusercontent.com/20893717/130315736-29bbd81d-1b17-4bfb-a7eb-495c34d5de23.png)
 
-:warning: No apparent or hidden payments are provided for our developments. If some products are using libraries with partially-free licenses, it is declared in annotations of corresponding projects.
+:warning: No apparent or hidden payments are provided for our developments. If some products are using libraries
+with partially-free licenses, it is declared in annotations of corresponding projects.
 
 #
 
@@ -37,7 +40,8 @@ This Policy (ADP), its positions, conclusion, EULA and application methods descr
 
 ![2](https://user-images.githubusercontent.com/20893717/130316140-13acdbc9-f085-469d-bd26-7bda812dd676.png)
 
-:warning: Our developments have no advertisement elements except of links to other own developments and projects. All links can only be called by user and have no automatic triggers.
+:warning: Our developments have no advertisement elements except of links to other own developments and projects.
+All links can only be called by user and have no automatic triggers.
 
 #
 
@@ -45,7 +49,9 @@ This Policy (ADP), its positions, conclusion, EULA and application methods descr
 
 ![3](https://user-images.githubusercontent.com/20893717/130316319-da241ed1-1286-4d70-8ad3-b5c741057ea8.png)
 
-:warning: None of our products will update their functionality without direct involvement of user. Only user can initiate this process. Non-executable content may be updated automatically if an absence of it makes impossible the correct execution of application.
+:warning: None of our products will update their functionality without direct involvement of user. Only user can initiate
+this process. Non-executable content may be updated automatically if an absence of it makes impossible the correct
+execution of application.
 
 #
 
@@ -53,7 +59,8 @@ This Policy (ADP), its positions, conclusion, EULA and application methods descr
 
 ![4](https://user-images.githubusercontent.com/20893717/130316460-c0c6674f-4c8e-4ca5-9aac-9a3f0c2ea65d.png)
 
-:warning: Our products have no code with undeclared aims (uncontrollable updating, data collecting, downloading of extraneous content, etc.). All functions of applications are described in user manuals and / or annotations of projects.
+:warning: Our products have no code with undeclared aims (uncontrollable updating, data collecting, downloading
+of extraneous content, etc.). All functions of applications are described in user manuals and / or annotations of projects.
 
 #
 
@@ -61,7 +68,8 @@ This Policy (ADP), its positions, conclusion, EULA and application methods descr
 
 ![5](https://user-images.githubusercontent.com/20893717/130316538-ef821aef-6ae7-46fb-bffe-867d54719ec7.png)
 
-:warning: Our applications have no algorithms for gathering / accumulating / sending of private info. All data used by our utilities doesn’t leave user’s device.
+:warning: Our applications have no algorithms for gathering / accumulating / sending of private info. All data used
+by our utilities doesn’t leave user’s device.
 
 #
 
@@ -69,7 +77,8 @@ This Policy (ADP), its positions, conclusion, EULA and application methods descr
 
 ![6](https://user-images.githubusercontent.com/20893717/130316679-1f289a2f-fda6-4c7a-843f-d39ea364a8f3.png)
 
-:heavy_check_mark: All code that has no special limitations is open for all use cases except removing license text (MIT or GPL) and, as a result, ideas depersonalization.
+:heavy_check_mark: All code that has no special limitations is open for all use cases except removing license text
+(MIT or GPL) and, as a result, ideas depersonalization.
 
 #
 
@@ -77,7 +86,8 @@ This Policy (ADP), its positions, conclusion, EULA and application methods descr
 
 ![7](https://user-images.githubusercontent.com/20893717/130316743-4863aa8b-9976-465e-b345-5ef2ee194245.png)
 
-:heavy_check_mark: Your comments, reports, advices and wishes allow us to improve our products. It is the only way to know what we need to be better.
+:heavy_check_mark: Your comments, reports, advices and wishes allow us to improve our products. It is the only way
+to know what we need to be better.
 
 #
 
@@ -92,8 +102,10 @@ This Policy (ADP), its positions, conclusion, EULA and application methods descr
 # Conclusion
 
 Clauses of the policy derive one from another and guarantee that:
-- We will not include payments, ads, hidden and / or unexpected functionality, uncontrollable updates, de-anonymizing algorithms and other elements that are not compatible with this Policy.
-- We will cooperate with our users when they want to help us and when they need help from us in the development / maintenance processes.
+- We will not include payments, ads, hidden and / or unexpected functionality, uncontrollable updates, de-anonymizing
+algorithms and other elements that are not compatible with this Policy.
+- We will cooperate with our users when they want to help us and when they need help from us
+in the development / maintenance processes.
 
 #
 
@@ -121,5 +133,3 @@ community / channel / hosting.
 4. Publication of developments / products / materials / other elements that are not consistent
 with the Policy in materials / comments / feeds of any community / channel / hosting managed
 by the laboratory may be limited or terminated at decision of the administration.
-
-#
