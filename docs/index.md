@@ -32,6 +32,8 @@ you completely agree to this Policy and accept it!***
 ![01](https://user-images.githubusercontent.com/20893717/168845126-4f2d6cd9-8420-4c29-9acb-f318ab38f96c.png)
 :warning: No apparent or hidden payments are provided for our developments. If some products are using libraries
 with partially-free licenses, it is declared in annotations of corresponding projects.
+&nbsp;
+&nbsp;
 
 #
 
@@ -125,3 +127,5 @@ community / channel / hosting.
 4. Publication of developments / products / materials / other elements that are not consistent
 with the Policy in materials / comments / feeds of any community / channel / hosting managed
 by the laboratory may be limited or terminated at decision of the administration.
+
+`id="changes-log---`
