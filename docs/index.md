@@ -109,13 +109,10 @@ no liability on the part of laboratory.
 
 1. Acquaintance with a Policy is mandatory. Failure to become acquainted with the Policy
 does not deprive the laboratory administration of the right to apply it.
-
 2. Agreement with the Policy is not required for participation in any community / channel /
 hosting managed by the laboratory.
-
 3. Disagreement with the Policy is not the basis for any sanctions against a member of the
 community / channel / hosting.
-
 4. Publication of developments / products / materials / other elements that are not consistent
 with the Policy in materials / comments / feeds of any community / channel / hosting managed
 by the laboratory may be limited or terminated at decision of the administration.
