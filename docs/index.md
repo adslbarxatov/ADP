@@ -29,8 +29,7 @@ you completely agree to this Policy and accept it!***
 
 ### 1. We work on free base
 
-![1](https://user-images.githubusercontent.com/20893717/130315736-29bbd81d-1b17-4bfb-a7eb-495c34d5de23.png)
-
+![01](https://user-images.githubusercontent.com/20893717/168845126-4f2d6cd9-8420-4c29-9acb-f318ab38f96c.png)
 :warning: No apparent or hidden payments are provided for our developments. If some products are using libraries
 with partially-free licenses, it is declared in annotations of corresponding projects.
 
@@ -38,8 +37,7 @@ with partially-free licenses, it is declared in annotations of corresponding pro
 
 ### 2. We don’t use ads
 
-![2](https://user-images.githubusercontent.com/20893717/130316140-13acdbc9-f085-469d-bd26-7bda812dd676.png)
-
+![02](https://user-images.githubusercontent.com/20893717/168845202-9773e00a-958a-4723-a000-e41c7658a5e7.png)
 :warning: Our developments have no advertisement elements except of links to other own developments and projects.
 All links can only be called by user and have no automatic triggers.
 
@@ -47,8 +45,7 @@ All links can only be called by user and have no automatic triggers.
 
 ### 3. We don’t use autoupdate
 
-![3](https://user-images.githubusercontent.com/20893717/130316319-da241ed1-1286-4d70-8ad3-b5c741057ea8.png)
-
+![03](https://user-images.githubusercontent.com/20893717/168845248-be76659e-c05b-452c-a6ed-a1b6260eec45.png)
 :warning: None of our products will update their functionality without direct involvement of user. Only user can initiate
 this process. Non-executable content may be updated automatically if an absence of it makes impossible the correct
 execution of application.
@@ -57,8 +54,7 @@ execution of application.
 
 ### 4. We don’t use hidden functionality
 
-![4](https://user-images.githubusercontent.com/20893717/130316460-c0c6674f-4c8e-4ca5-9aac-9a3f0c2ea65d.png)
-
+![04](https://user-images.githubusercontent.com/20893717/168845285-943cc155-d2c1-434c-b222-e4ccf674c9a7.png)
 :warning: Our products have no code with undeclared aims (uncontrollable updating, data collecting, downloading
 of extraneous content, etc.). All functions of applications are described in user manuals and / or annotations of projects.
 
@@ -66,8 +62,7 @@ of extraneous content, etc.). All functions of applications are described in use
 
 ### 5. We don’t collect personal data
 
-![5](https://user-images.githubusercontent.com/20893717/130316538-ef821aef-6ae7-46fb-bffe-867d54719ec7.png)
-
+![05](https://user-images.githubusercontent.com/20893717/168845335-cb7e03de-5a73-4818-9c1a-3bea1000ece6.png)
 :warning: Our applications have no algorithms for gathering / accumulating / sending of private info. All data used
 by our utilities doesn’t leave user’s device.
 
@@ -75,8 +70,7 @@ by our utilities doesn’t leave user’s device.
 
 ### 6. Our products are open-source
 
-![6](https://user-images.githubusercontent.com/20893717/130316679-1f289a2f-fda6-4c7a-843f-d39ea364a8f3.png)
-
+![06](https://user-images.githubusercontent.com/20893717/168845378-4b4e0e11-980f-4365-891a-82d87d5ffa5a.png)
 :heavy_check_mark: All code that has no special limitations is open for all use cases except removing license text
 (MIT or GPL) and, as a result, ideas depersonalization.
 
@@ -84,8 +78,7 @@ by our utilities doesn’t leave user’s device.
 
 ### 7. We welcome bug reports
 
-![7](https://user-images.githubusercontent.com/20893717/130316743-4863aa8b-9976-465e-b345-5ef2ee194245.png)
-
+![07](https://user-images.githubusercontent.com/20893717/168845431-535c5a2a-87c7-4161-bd30-79807ff34a17.png)
 :heavy_check_mark: Your comments, reports, advices and wishes allow us to improve our products. It is the only way
 to know what we need to be better.
 
@@ -93,8 +86,7 @@ to know what we need to be better.
 
 ### 8. We don’t leave our users
 
-![8](https://user-images.githubusercontent.com/20893717/130316806-563351bd-8b7a-4910-ad98-f0a50ca30f49.png)
-
+![08](https://user-images.githubusercontent.com/20893717/168845478-71d4614c-f2f4-4b50-b21e-bf6917360eb3.png)
 :warning: All products of us have developers support. All users can ask us for help when using our applications.
 
 #
