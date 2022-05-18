@@ -23,8 +23,8 @@ you completely agree to this Policy and accept it!***
 
 # Clauses of the Policy
 
-- Points marked in red and with a :warning: are ***mandatory***.
-- Points marked in green and with a :heavy_check_mark: are ***advisory***.
+- Points `1`, `2`, `3`, `4`, `5` and `8` (marked with a :warning: sign) are ***mandatory***.
+- Points `6` and `7` (marked with a :heavy_check_mark: sign) are ***advisory***.
 
 #
 
