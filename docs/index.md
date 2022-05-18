@@ -117,5 +117,3 @@ community / channel / hosting.
 4. Publication of developments / products / materials / other elements that are not consistent
 with the Policy in materials / comments / feeds of any community / channel / hosting managed
 by the laboratory may be limited or terminated at decision of the administration.
-
-`id="changes-log---`
