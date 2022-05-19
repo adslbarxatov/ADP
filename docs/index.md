@@ -32,8 +32,6 @@ you completely agree to this Policy and accept it!***
 
 :warning: No apparent or hidden payments are provided for our developments. If some products are using libraries
 with partially-free licenses, it is declared in annotations of corresponding projects.
-&nbsp;
-&nbsp;
 
 #
 

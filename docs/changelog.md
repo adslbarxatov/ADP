@@ -1,4 +1,4 @@
-# [RD AAOW Free development lab’s](https://adslbarxatov.github.io/DPModule) Applications development policy (RD AAOW FDL ADP) ```rev. 10```
+# [RD AAOW Free development lab’s](https://adslbarxatov.github.io/DPModule) Applications development policy (RD AAOW FDL ADP)
 
 # Changes log ● История изменений
 
