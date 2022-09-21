@@ -5,7 +5,7 @@
 - [Clauses of the Policy](#clauses-of-the-policy)
 - [Conclusion](#conclusion)
 - [EULA](#end-user-license-agreement)
-- [Application rules](#application-rules)
+- [Application order](#application-order)
 - [Changes log](https://adslbarxatov.github.io/ADP/changelog)
 - [Русская версия :ru:](https://adslbarxatov.github.io/ADP/ru)
 
@@ -104,7 +104,7 @@ no liability on the part of laboratory.
 
 #
 
-# Application rules
+# Application order
 
 1. Acquaintance with a Policy is mandatory. Failure to become acquainted with the Policy
 does not deprive the laboratory administration of the right to apply it.
