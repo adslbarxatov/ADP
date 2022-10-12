@@ -1,5 +1,9 @@
 # [RD AAOW Free development lab’s](https://adslbarxatov.github.io/DPArray) Applications development policy (RD AAOW FDL ADP) ```rev. 10```
 
+&nbsp;
+
+
+
 # Contents
 - [Introduction](#introduction)
 - [Clauses of the Policy](#clauses-of-the-policy)
