@@ -21,3 +21,5 @@
 `rev. 9`: clarifications and corrections in autoupdate, open-source and conclusion sections from 17.01.21
 
 `rev. 10`: adapation for GitHub platform from 21.08.21
+
+`rev. 11`: clarifications and misspelling fixes from 16.04.23
