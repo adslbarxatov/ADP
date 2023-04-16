@@ -1,6 +1,6 @@
 # [RD AAOW Free development lab’s](https://adslbarxatov.github.io/DPArray) Applications development policy (RD AAOW FDL ADP)
 
-# Changes log ● История изменений
+# Changes log
 
 `rev. 1`: formalization from 21.12.19
 
@@ -20,6 +20,6 @@
 
 `rev. 9`: clarifications and corrections in autoupdate, open-source and conclusion sections from 17.01.21
 
-`rev. 10`: adapation for GitHub platform from 21.08.21
+`rev. 10`: adaptation for GitHub platform from 21.08.21
 
 `rev. 11`: clarifications and misspelling fixes from 16.04.23
