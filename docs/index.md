@@ -19,8 +19,8 @@
 
 # Introduction
 
-This Policy (ADP), its positions, conclusion, end-user license agreement and application order are describing general rules that we follow
-in all development processes, released projects and implemented ideas.
+This Policy (ADP), its positions, conclusion, end-user license agreement and application order are describing general rules
+that Laboratory follows in all development processes, released projects and implemented ideas.
 
 ***It must be acquainted by participants and users before using any of Laboratory’s products. By downloading them,
 you completely agree to this Policy and accept it!***
@@ -51,8 +51,8 @@ All links can only be called by user and have no automatic triggers.
 
 ### 3. We don’t use autoupdate
 
-:warning: None of Lab products will update their functionality without direct involvement of user. Only user can initiate
-this process. Non-executable content may be updated automatically if an absence of it makes impossible the correct
+:warning: None of Lab products will update their functionality without direct involvement of user.
+Non-executable content may be updated automatically if an absence of it makes impossible the correct
 functioning of the product.
 
 ### 4. We don’t use hidden functionality
