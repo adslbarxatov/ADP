@@ -1,4 +1,4 @@
-# [RD AAOW Free development lab’s](https://adslbarxatov.github.io/DPArray) Applications development policy (RD AAOW FDL ADP) ```rev. 11```
+# [RD AAOW Free development lab’s](https://adslbarxatov.github.io/DPArray) Applications development policy (RD AAOW FDL ADP) ```rev. 12```
 
 &nbsp;
 
@@ -8,6 +8,7 @@
 - [Introduction](#introduction)
 - [Clauses of the Policy](#clauses-of-the-policy)
 - [Conclusion](#conclusion)
+- [XPUN control](#xpun-control)
 - [End-user license agreement](#end-user-license-agreement)
 - [Application order](#application-order)
 - [Changes log](https://adslbarxatov.github.io/ADP/changelog)
@@ -95,9 +96,33 @@ processes of the main and / or child Lab products.
 
 
 
+# XPUN control
+
+Since 2020, some countries have introduced new restrictive laws (`[description is classified]`) that are inconsistent with this Policy.
+Laboratory wants to avoid any conflicts related to this discrepancy. The only way to do this is to make all products unavailable in those countries.
+
+In this regard, FDF, the Lab co-founder introduced the **XPUN control mechanism** (`[description is classified]`).
+This algorithm is present in all actual products of the Laboratory. For now, it restricts the launch of corresponding apps
+in the following countries:
+- Belgium
+- Denmark
+- Ireland
+- Latvia
+- Lithuania
+- Luxembourg
+- Netherlands
+- Poland
+- United Kingdom
+- Czech
+- Estonia
+
+&nbsp;
+
+
+
 # End user license agreement
 
-Our products and any updates are being delivered «as is». ***Laboratory*** may try to, but
+Our products and any updates are being delivered “as is”. ***Laboratory*** may try to, but
 ***does not and cannot warrant*** the performance, results, absence of crushes and / or data
 losses you may obtain by using them. ***All products are used at your own risk***, without
 any guarantees and compensations, explicit and implied (except described above). There is
