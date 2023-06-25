@@ -98,10 +98,10 @@ processes of the main and / or child Lab products.
 
 # XPUN control
 
-Since 2020, some countries have introduced new restrictive laws (`[description is classified]`) that are inconsistent with this Policy.
+Since 2020, some countries have introduced new restrictive laws (`[description is classified]`) that are incompatible with this Policy.
 Laboratory wants to avoid any conflicts related to this discrepancy. The only way to do this is to make all products unavailable in those countries.
 
-In this regard, FDF, the Lab co-founder introduced the **XPUN control mechanism** (`[description is classified]`).
+In this regard, FDF, the Lab co-founder implemented the **XPUN control mechanism** (`[description is classified]`).
 This algorithm is present in all actual products of the Laboratory. For now, it restricts the launch of corresponding apps
 in the following countries:
 - Belgium
@@ -115,6 +115,8 @@ in the following countries:
 - United Kingdom
 - Czech
 - Estonia
+
+Unfortunately, there is no other legal way around this situation yet. The laboratory hopes for your understanding.
 
 &nbsp;
 
