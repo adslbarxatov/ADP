@@ -1,2 +1,2 @@
-_Changes for rev. 11_:
-- Clarifications and misspelling fixes from 16.04.23
+_Changes for rev. 12_:
+- XPUN control description from 26.06.23
