@@ -1,2 +1,2 @@
-_Changes for rev. 12_: 
-- XPUN control description from 26.06.23
+_Changes for rev. 13_:
+- Terms unification and connection with SCP from 12.07.23
