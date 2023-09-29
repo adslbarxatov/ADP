@@ -27,3 +27,5 @@
 `rev. 12`: XPUN control description from 26.06.23
 
 `rev. 13`: Terms unification and connection with SCP from 12.07.23
+
+`rev. 14`: XPUN list update from 30.09.23

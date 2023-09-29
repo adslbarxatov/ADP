@@ -1,4 +1,4 @@
-# [RD AAOW Free development lab’s](https://adslbarxatov.github.io/DPArray) Applications development policy (RD AAOW FDL ADP) ```rev. 13```
+# [RD AAOW Free development lab’s](https://adslbarxatov.github.io/DPArray) Applications development policy (RD AAOW FDL ADP) ```rev. 14```
 
 &nbsp;
 
@@ -92,8 +92,8 @@ and are the only way to improve them.
 # Conclusion
 
 Clauses of the Policy derive one from another and guarantee that:
-- The Lab will not include payments, advertising, hidden and / or unannounced features, uncontrolled updates,
-deanonymization features, and other items in Policy Objects that are inconsistent with this Policy.
+- The Lab does not include payments, advertising, hidden and / or unannounced features, uncontrolled updates,
+de-anonymization features, and other items in Policy Objects that are inconsistent with this Policy.
 - The Lab welcomes cooperation with users offering assistance or requiring assistance in the development /
 maintenance of the main and / or subsidiary projects of the Laboratory.
 
@@ -111,15 +111,14 @@ In this regard, FDF, the Lab co-founder implemented the **XPUN control mechanism
 This algorithm is present in all actual Policy Objects. For now, it restricts the launch of corresponding apps
 in the following countries:
 - Belgium
+- Canada
 - Denmark
 - Ireland
 - Latvia
 - Lithuania
 - Luxembourg
 - Netherlands
-- Poland
 - United Kingdom
-- Czech
 - Estonia
 
 &nbsp;
