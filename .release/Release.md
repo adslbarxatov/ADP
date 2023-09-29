@@ -1,2 +1,2 @@
-_Changes for rev. 13_:
-- Terms unification and connection with SCP from 12.07.23
+_Changes for rev. 14_:
+- XPUN list update from 30.09.23
