@@ -113,13 +113,13 @@ in the following countries:
 - Belgium
 - Canada
 - Denmark
+- Estonia
 - Ireland
 - Latvia
 - Lithuania
 - Luxembourg
 - Netherlands
 - United Kingdom
-- Estonia
 
 &nbsp;
 
