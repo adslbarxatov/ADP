@@ -29,3 +29,5 @@
 `rev. 13`: Terms unification and connection with SCP from 12.07.23
 
 `rev. 14`: XPUN list update from 30.09.23
+
+`rev. 15`: misspelling fixes and XPUN list update from 8.03.24
