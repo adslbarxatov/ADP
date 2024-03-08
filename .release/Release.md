@@ -1,2 +1,2 @@
-_Changes for rev. 14_: 
-- XPUN list update from 30.09.23
+_Changes for rev. 15_:
+- Misspelling fixes and XPUN list update from 8.03.24
