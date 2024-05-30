@@ -108,7 +108,7 @@ The Laboratory sees it as its task to avoid any conflicts associated with this d
 The only way to do this, available at the time of publication of this Policy revision, is to make all Policy Objects unavailable in those countries.
 
 In this regard, FDF, the Laboratory co-founder implemented the **XPUN control mechanism** (`[description is classified]`).
-This algorithm is present in all actual Policy Objects. For now, it restricts the launch of corresponding apps
+This algorithm is present in all actual Policy Objects. At the moment its only function is restriction of launch of relevant apps
 in the following areas:
 - Belgium
 - Canada
