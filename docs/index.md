@@ -1,4 +1,4 @@
-# [RD AAOW Free development lab’s](https://adslbarxatov.github.io/DPArray) Applications development policy (RD AAOW FDL ADP) ```rev. 15```
+# [RD AAOW Free development lab’s](https://adslbarxatov.github.io/DPArray) Applications development policy (RD AAOW FDL ADP) ```rev. 16```
 
 &nbsp;
 
@@ -30,7 +30,7 @@ This Policy (ADP), its positions, conclusion, the end-user license agreement and
 that Laboratory follows when developing, maintaining and using Policy Objects.
 
 ***The Policy is required to be acquainted with by all participants of the Policy Scope and users before using any of the Policy Objects.
-By downloading them, you fully agree with this Policy and accept it!***
+By running them, you fully agree with this Policy and accept it!***
 
 &nbsp;
 
@@ -48,13 +48,13 @@ Points `6` and `7` (marked with a :heavy_check_mark: sign) are ***advisory***.
 
 ### 1. We work on free base
 
-:warning: There are no explicit or implied payments for Policy Objects. If some Objects use components
+:warning: There are no explicit or implied payments for Policy Objects. If Objects use components
 with partially free licenses, this is reflected in the annotations of the corresponding projects.
 
 ### 2. We don’t use ads
 
-:warning: The Policy Objects have no promotional elements, except for links to the Laboratory’s own projects.
-All links can only be called by the user and only manually and have no automatic triggers.
+:warning: The Policy Objects have no promotional elements, except for references to the Laboratory’s own projects.
+All references can only be used by the user and only manually and have no automatic triggers.
 
 ### 3. We don’t use autoupdate
 
@@ -78,7 +78,7 @@ for the depersonalization of the ideas and solutions presented in it (that is, t
 
 ### 7. We welcome recommendations and bug reports
 
-:heavy_check_mark: Your comments, messages, advice and wishes allow the Laboratory to improve the solutions created
+:heavy_check_mark: Comments, messages, advice and wishes of users allow the Laboratory to improve the solutions created
 and are the main way to improve them.
 
 ### 8. We don’t leave our users
@@ -103,13 +103,13 @@ maintenance of the main and / or subsidiary projects of the Laboratory.
 
 # XPUN control
 
-Since 2020, some countries have introduced restrictive laws (`[description is classified]`) that are incompatible with this Policy.
+Since 2020, some territories have introduced restrictive laws (`[description is classified]`) that are incompatible with this Policy.
 The Laboratory sees it as its task to avoid any conflicts associated with this discrepancy.
-The only way to do this, available at the time of publication of this Policy revision, is to make all Policy Objects unavailable in those countries.
+The only way to do this, available at the time of publication of this Policy revision, is to make all Policy Objects unavailable in those areas.
 
-In this regard, FDF, the Laboratory co-founder implemented the **XPUN control mechanism** (`[description is classified]`).
-This algorithm is present in all actual Policy Objects. At the moment its only function is restriction of launch of relevant apps
-in the following areas:
+In this regard, FDF, the Laboratory co-founder implemented the **XPUN control** (`[description is classified]`).
+This algorithm is present in all actual Policy Objects. Its only function is restriction of launch of relevant apps
+on the following territories:
 - Belgium
 - Canada
 - Czech Republic
@@ -117,10 +117,12 @@ in the following areas:
 - Estonia
 - Germany
 - Ireland
+- Japan
 - Latvia
 - Lithuania
 - Luxembourg
 - Netherlands
+- Norway
 - Switzerland
 - United Kingdom
 

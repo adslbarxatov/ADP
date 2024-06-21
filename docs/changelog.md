@@ -31,3 +31,5 @@
 `rev. 14`: XPUN list update from 30.09.23
 
 `rev. 15`: misspelling fixes and XPUN list update from 8.03.24
+
+`rev. 16`: misspelling fixes and XPUN list update from 21.06.24
