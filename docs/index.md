@@ -11,7 +11,6 @@
 - [XPUN control](#xpun-control)
 - [End-user license agreement](#end-user-license-agreement)
 - [Application order](#application-order)
-
 - [Detailed privacy policy](https://adslbarxatov.github.io/ADP/privacy)
 - [Changes log](https://adslbarxatov.github.io/ADP/changelog)
 - [SCP](https://adslbarxatov.github.io/SCP)

@@ -23,15 +23,15 @@ materials and developments of the Laboratory.
 
 # Clauses of the Policy
 
-1. According to p. 4 of the Applications development policy:
+### 1. According to p. 4 of the Applications development policy:
 - Policy Objects have no code with undeclared purposes (uncontrolled updates, data collection, downloading
   of third-party content). All features of Objects are described in user guides and / or project summaries.
 
-2. According to p. 5 of the Applications development policy:
+### 2. According to p. 5 of the Applications development policy:
 - Policy Objects have no algorithms for collecting,
   accumulating or transferring of personal information. All data used by Policy Objects doesn’t leave the user device.
 
-3. Policy Objects may only use the following device parameters to ensure correct functionality and better user experience:
+### 3. Policy Objects may only use the following device parameters to ensure correct functionality and better user experience:
 - Screen resolution and pixel density (to properly set the font size of interface elements).
 - Availability (only presence / absence, without any details) of the web browser and the e-mail client (to provide
   the access to our reference materials and the ability to send bug reports and recommendations).

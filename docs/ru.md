@@ -11,7 +11,6 @@
 - [XPUN control](#xpun-control)
 - [Пользовательское соглашение](#section-12)
 - [Порядок применения](#section-13)
-
 - [Подробная политика конфиденциальности](https://adslbarxatov.github.io/ADP/privacy_ru)
 - [История изменений](https://adslbarxatov.github.io/ADP/changelog)
 - [SCP](https://adslbarxatov.github.io/SCP/ru)
