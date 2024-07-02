@@ -11,9 +11,11 @@
 - [XPUN control](#xpun-control)
 - [End-user license agreement](#end-user-license-agreement)
 - [Application order](#application-order)
+
+- [Detailed privacy policy](https://adslbarxatov.github.io/ADP/privacy)
 - [Changes log](https://adslbarxatov.github.io/ADP/changelog)
 - [SCP](https://adslbarxatov.github.io/SCP)
-- [Русская версия](https://adslbarxatov.github.io/ADP/ru)
+- [Версия на русской языке](https://adslbarxatov.github.io/ADP/ru)
 
 &nbsp;
 
@@ -63,12 +65,12 @@ Non-executable content may be updated automatically if the correct functioning o
 
 ### 4. We don’t use hidden functionality
 
-:warning: Policy objects have no code with undeclared purposes (uncontrolled updates, data collection, downloading
+:warning: Policy Objects have no code with undeclared purposes (uncontrolled updates, data collection, downloading
 of third-party content). All features of Objects are described in user guides and / or project summaries.
 
 ### 5. We don’t collect personal data
 
-:warning: Policy Objects have no algorithms for collecting / accumulating / transferring of personal information.
+:warning: Policy Objects have no algorithms for collecting, accumulating or transferring of personal information.
 All data used by Policy Objects doesn’t leave the user device.
 
 ### 6. Our products are open-source
@@ -94,7 +96,7 @@ and are the main way to improve them.
 Clauses of the Policy derive one from another and guarantee that:
 - The Lab does not include payments, advertising, hidden and / or unannounced features, uncontrolled updates,
 de-anonymization features, and other items in Policy Objects that are inconsistent with this Policy.
-- The Lab welcomes cooperation with users offering assistance or requiring assistance in the development /
+- The Lab welcomes cooperation with users offering assistance or requiring assistance in the development and / or
 maintenance of the main and / or subsidiary projects of the Laboratory.
 
 &nbsp;
@@ -150,5 +152,5 @@ doesn’t provide for any liability on the part of the Laboratory.
 2. Acquaintance with a Policy is mandatory. Failure to become acquainted with the Policy doesn’t deprive the Laboratory administration of the right to apply it.
 3. Agreement with the Policy is not required for participation in the Policy Scope.
 4. Disagreement with the Policy is not the basis for any sanctions against a member of the Policy Scope.
-5. Publication of Policy Objects that aren’t consistent with the Policy in materials /
-comments / news feeds of the Policy Scope may be limited or terminated at decision of the administration.
+5. Publication of Policy Objects those aren’t consistent with the Policy in materials,
+comments and / or news feeds of the Policy Scope may be limited or terminated at decision of the administration.
