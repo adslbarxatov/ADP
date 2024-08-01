@@ -1,4 +1,4 @@
-# [RD AAOW Free development lab’s](https://adslbarxatov.github.io/DPArray) Applications development policy (RD AAOW FDL ADP) ```rev. 16```
+# [RD AAOW Free development lab’s](https://adslbarxatov.github.io/DPArray) Applications development policy (RD AAOW FDL ADP) ```rev. 17```
 
 &nbsp;
 
@@ -39,52 +39,45 @@ By running them, you fully agree with this Policy and accept it!***
 
 # Clauses of the Policy
 
-Points `1`, `2`, `3`, `4`, `5` and `8` (marked with a :warning: sign) are ***mandatory***.
-
-Points `6` and `7` (marked with a :heavy_check_mark: sign) are ***advisory***.
-
-&nbsp;
-
-
-
 ### 1. We work on free base
 
-:warning: There are no explicit or implied payments for Policy Objects. If Objects use components
-with partially free licenses, this is reflected in the annotations of the corresponding projects.
+There are no explicit or implied payments for Policy Objects. It is reflected in the annotations
+of the corresponding projects if Objects use components with partially free licenses.
 
 ### 2. We don’t use ads
 
-:warning: The Policy Objects have no promotional elements, except for references to the Laboratory’s own projects.
-All references can only be used by the user and only manually and have no automatic triggers.
+The Policy Objects have no promotional elements, except for references to the Laboratory’s own projects.
+All references can only be activated by the user and only manually (they have no automatic triggers).
 
 ### 3. We don’t use autoupdate
 
-:warning: None of Policy Objects will update functionality without the direct participation of the user.
+None of Policy Objects can update its functionality without the direct participation of the user.
 Non-executable content may be updated automatically if the correct functioning of the Object becomes impossible without it.
 
 ### 4. We don’t use hidden functionality
 
-:warning: Policy Objects have no code with undeclared purposes (uncontrolled updates, data collection, downloading
+Policy Objects have no code with undeclared purposes (uncontrolled updates, data collection, downloading
 of third-party content). All features of Objects are described in user guides and / or project summaries.
 
 ### 5. We don’t collect personal data
 
-:warning: Policy Objects have no algorithms for collecting, accumulating or transferring of personal information.
+Policy Objects have no algorithms for collecting, accumulating or transferring of personal information.
 All data used by Policy Objects doesn’t leave the user device.
 
 ### 6. Our products are open-source
 
-:heavy_check_mark: All code and source material, which has no special restrictions, is open to all uses, except
-for the depersonalization of the ideas and solutions presented in it (that is, the removal of the license text and author signatures).
+All code and source material, which has no special restrictions, is open to all uses, except
+for the depersonalization of the ideas and solutions presented in it. Therefore, all copies
+should include the reference to at least one of Laboratory’s communities.
 
 ### 7. We welcome recommendations and bug reports
 
-:heavy_check_mark: Comments, messages, advice and wishes of users allow the Laboratory to improve the solutions created
-and are the main way to improve them.
+Comments, messages, advice and wishes of users allow the Laboratory to improve the solutions created
+and are the main way to improve them. Therefore, all Policy Objects provide communication channels with the Laboratory.
 
 ### 8. We don’t leave our users
 
-:warning: All Policy Objects have developer support. All users can ask for help when using Policy Objects.
+All Policy Objects have developer support. All users can ask for help and support when using Policy Objects.
 
 &nbsp;
 
@@ -104,28 +97,29 @@ maintenance of the main and / or subsidiary projects of the Laboratory.
 
 # XPUN control
 
-Since 2020, some territories have introduced restrictive laws (`[description is classified]`) that are incompatible with this Policy.
-The Laboratory sees it as its task to avoid any conflicts associated with this discrepancy.
-The only way to do this, available at the time of publication of this Policy revision, is to make all Policy Objects unavailable in those areas.
+Since 2020, some governments have introduced certain restrictive laws of disintegration nature in their territories
+that are incompatible with this Policy. The Laboratory sees it as its task to avoid any conflicts associated with
+this discrepancy. The only way to do this, available at the time of publication of this Policy revision, is to make
+all Policy Objects unavailable in those areas.
 
-In this regard, FDF, the Laboratory co-founder implemented the **XPUN control** (`[description is classified]`).
-This algorithm is present in all actual Policy Objects. Its only function is restriction of launch of relevant apps
-on the following territories:
-- Belgium
-- Canada
-- Czech Republic
-- Denmark
-- Estonia
-- Germany
-- Ireland
-- Japan
-- Latvia
-- Lithuania
-- Luxembourg
-- Netherlands
-- Norway
-- Switzerland
-- United Kingdom
+In this regard, **XPUN control** was developed. The current version of the Policy defines that:
+- This algorithm is present in all actual Policy Objects.
+- Its only function is to restrict the launch of Policy Objects in the following territories:
+    - Belgium
+    - Canada
+    - Czech Republic
+    - Denmark
+    - Estonia
+    - Germany
+    - Ireland
+    - Japan
+    - Latvia
+    - Lithuania
+    - Luxembourg
+    - Netherlands
+    - Norway
+    - Switzerland
+    - United Kingdom
 
 &nbsp;
 
@@ -148,8 +142,9 @@ doesn’t provide for any liability on the part of the Laboratory.
 1. In the event that any Policy Object conflicts (even if fully compliant with it) with
    the [FDL’s Social community policy (SCP)](https://adslbarxatov.github.io/SCP),
    SCP will take precedence in handling the conflict.
-2. Acquaintance with a Policy is mandatory. Failure to become acquainted with the Policy doesn’t deprive the Laboratory administration of the right to apply it.
+2. Acquaintance with a Policy is mandatory. Failure to become acquainted with the Policy doesn’t
+   deprive the Laboratory administration of the right to apply it.
 3. Agreement with the Policy is not required for participation in the Policy Scope.
 4. Disagreement with the Policy is not the basis for any sanctions against a member of the Policy Scope.
 5. Publication of Policy Objects those aren’t consistent with the Policy in materials,
-comments and / or news feeds of the Policy Scope may be limited or terminated at decision of the administration.
+   comments and / or news feeds of the Policy Scope may be limited or terminated at decision of the administration.
