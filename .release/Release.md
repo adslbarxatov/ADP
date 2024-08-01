@@ -1,2 +1,2 @@
-_Changes for rev. 16_: 
-- Misspelling fixes and XPUN list update from 21.06.24
+_Changes for rev. 17_:
+- Removed some extraneous elements, adjusted time specifications, added more correct requirements (1.08.24)

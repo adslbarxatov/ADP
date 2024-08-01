@@ -31,7 +31,7 @@ This Policy (ADP), its positions, conclusion, the end-user license agreement and
 that Laboratory follows when developing, maintaining and using Policy Objects.
 
 ***The Policy is required to be acquainted with by all participants of the Policy Scope and users before using any of the Policy Objects.
-By running them, you fully agree with this Policy and accept it!***
+By starting to work with them, you fully agree with this Policy and accept it!***
 
 &nbsp;
 
