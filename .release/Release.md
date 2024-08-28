@@ -1,2 +1,2 @@
-_Changes for rev. 17_:
-- Removed some extraneous elements, adjusted time specifications, added more correct requirements (1.08.24)
+_Changes for rev. 18_:
+- Description for an exception from the XPUN control (29.08.24)
