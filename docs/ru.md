@@ -1,4 +1,4 @@
-# [RD AAOW Free development lab’s](https://adslbarxatov.github.io/DPArray/ru) Applications development policy (RD AAOW FDL ADP) ```rev. 17```
+# [RD AAOW Free development lab’s](https://adslbarxatov.github.io/DPArray/ru) Applications development policy (RD AAOW FDL ADP) ```rev. 18```
 
 &nbsp;
 
@@ -105,7 +105,10 @@
 все Объекты Политики недоступными на этих территориях.
 
 В связи с этим был разработан **контроль XPUN**. Текущая версия Политики определяет, что:
-- Этот алгоритм присутствует во всех актуальных Объектах Политики.
+- Этот алгоритм присутствует во всех актуальных Объектах Политики, кроме тех, которые попадают под действие других лицензий и политик, переопределяющих ADP. А именно:
+    - ESHQ mod
+    - ES: Randomaze mod
+    - Crazy cheater's mod
 - Единственной его функцией является ограничение запуска Объектов Политики на следующих территориях:
     - Бельгия
     - Германия

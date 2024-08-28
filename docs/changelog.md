@@ -35,3 +35,5 @@
 `rev. 16`: misspelling fixes and XPUN list update from 21.06.24
 
 `rev. 17`: removed some extraneous elements, adjusted time specifications, added more correct requirements (1.08.24)
+
+`rev. 18`: description for an exception from the XPUN control (29.08.24)

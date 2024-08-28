@@ -1,4 +1,4 @@
-# [RD AAOW Free development lab’s](https://adslbarxatov.github.io/DPArray) Applications development policy (RD AAOW FDL ADP) ```rev. 17```
+# [RD AAOW Free development lab’s](https://adslbarxatov.github.io/DPArray) Applications development policy (RD AAOW FDL ADP) ```rev. 18```
 
 &nbsp;
 
@@ -103,7 +103,10 @@ this discrepancy. The only way to do this, available at the time of publication 
 all Policy Objects unavailable in those areas.
 
 In this regard, **XPUN control** was developed. The current version of the Policy defines that:
-- This algorithm is present in all actual Policy Objects.
+- This algorithm is present in all actual Policy Objects except those covered by other licenses and policies that override ADP. Namely:
+    - ESHQ mod
+    - ES: Randomaze mod
+    - Crazy cheater's mod
 - Its only function is to restrict the launch of Policy Objects in the following territories:
     - Belgium
     - Canada
