@@ -35,8 +35,7 @@ materials and developments of the Laboratory.
 - Screen resolution and pixel density (to properly set the font size of interface elements).
 - Availability (only presence / absence, without any details) of the web browser and the e-mail client (to provide
   the access to our reference materials and the ability to send bug reports and recommendations).
-- Availability (only presence / absence, without any details) of the internet connection (to provide default
-  functions and to provide the access to our reference materials).
+- Availability (only presence / absence, without any details) of the internet connection (to provide the access to our reference materials).
 
 Some of these parameters may be subject to privacy policies of some device manufacturers and operating system developers.
 None of these parameters leave the user device in any way or form when using any of the Policy Objects.
