@@ -2,4 +2,6 @@
 
 Open the [Policy page](https://adslbarxatov.github.io/ADP) to read it
 
+#
+
 Откройте [страницу Политики](https://adslbarxatov.github.io/ADP/ru), чтобы ознакомиться с ней
