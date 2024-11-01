@@ -14,7 +14,7 @@
 - [Detailed privacy policy](https://adslbarxatov.github.io/ADP/privacy)
 - [Changes log](https://adslbarxatov.github.io/ADP/changelog)
 - [SCP](https://adslbarxatov.github.io/SCP)
-- [Версия на русской языке](https://adslbarxatov.github.io/ADP/ru)
+- [Версия на русском языке](https://adslbarxatov.github.io/ADP/ru)
 
 &nbsp;
 
