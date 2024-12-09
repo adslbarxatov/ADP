@@ -1,7 +1,7 @@
 # RD AAOW Free development lab’s Applications development policy (RD AAOW FDL ADP)
 
-Open the [Policy page](https://adslbarxatov.github.io/ADP) to read it
+:warning: ***This Policy (ADP) has been replaced with the [RD AAOW FDL Integrated operational policy (FDL IOP)](https://adslbarxatov.github.io/IOP)***
 
 #
 
-Откройте [страницу Политики](https://adslbarxatov.github.io/ADP/ru), чтобы ознакомиться с ней
+:warning: ***Данная Политика (ADP) заменена [Интегрированной операционной политикой RD AAOW FDL (FDL IOP)](https://adslbarxatov.github.io/IOP/ru)***
